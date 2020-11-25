@@ -1,0 +1,43 @@
+.spacing {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+.spacing-top {
+  margin-top: 50px;
+  padding-top: 20px; }
+
+.spacing-bottom {
+  margin-bottom: 50px;
+  padding-bottom: 20px; }
+
+.box {
+  padding: 50px;
+  border: 30px;
+  border-style: solid;
+  border-color: black; }
+
+.nav-bar {
+  background-color: black;
+  background-image: black; }
+
+.navbar-element {
+  color: #d4d4d4;
+  background-clip: text;
+  font-size: 23px;
+  text-decoration: none; }
+
+#background {
+  background-color: whitesmoke; }
+
+body {
+  height: 100%;
+  width: auto;
+  background-color: #05e8bf;
+  background-image: linear-gradient(to bottom right, #05e8bf, #087ee1);
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+a:hover {
+  color: #05e8bf; }
+
+/*# sourceMappingURL=style.css.map */
